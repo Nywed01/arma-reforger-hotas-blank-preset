@@ -12,7 +12,7 @@ For anyone running VKB hardware, I’ve also made a VKB config profile.
 How to install the Reforger preset : 
 
 1) Download the file
-2) Go to this directory > C:\Users\<username>\Documents\My Games\ArmaReforger\profile\.save\settings\customInputConfigs
+2) Go to this directory > C:\Users\<username>\Documents\My Games\ArmaReforger\profile\ .save\settings\customInputConfigs
 3) Put the file in 
 4) You're good to go
 
